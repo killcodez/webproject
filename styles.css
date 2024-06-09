@@ -1,7 +1,26 @@
-button {
-    background-color: red;
-    color: blanchedalmond;
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: darkorchid;
+    background-color: yellow 
 }
 
+h2 {
+   font-size: large;
+   font-weight: lighter;
+   color: darkmagenta;
+   background-color:yellow;
+}
 
+h3 {
+    font-size: small;
+    font-weight: 900;
+    color: aquamarine;
+    background-color: black;
+}
+
+button {
+    color: aqua;
+    background-color: black;
+}
 
