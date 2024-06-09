@@ -1,7 +1,8 @@
-#Web Development Class - project1 
+# project 
+Web Development Class - projects 
 
 ---
 
--New URL:http://127.0.0.1:5500/index.html
+NewURL:http://127.0.0.1:5500/index.html
 
 
