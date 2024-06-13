@@ -1,0 +1,38 @@
+body {
+    background-color: #798;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #FFC1CC;
+    text-decoration: solid;
+    
+}
+
+a {
+    font-size: large;
+    text-transform: uppercase;
+    color: #FFC1CC;
+    text-decoration: solid;
+
+}
+
+p {
+    text-align: center;
+    text-transform: inherit;
+    color: #FFC1CC;
+    text-decoration: unset;
+    font-size: x-small;
+
+}
+
+h4 { 
+    color: #FFC1CC;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
+
+
+}
